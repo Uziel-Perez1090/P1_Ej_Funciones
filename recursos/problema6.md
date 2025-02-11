@@ -1,2 +1,2 @@
-problema 6
+problema 6:Desarrolla un programa que tome una lista de números decimales (double) y calcule el producto de todos sus elementos.que utilice 2 funciones una para capturar datos de la lista y otra para mostrar los elementos
 ![alt text](image-3.png)

@@ -47,5 +47,6 @@ double calcularProducto(List<double> lista) {
   for (double numero in lista) {
     producto *= numero; // Multiplicar cada elemento
   }
+  
   return producto;
 }
